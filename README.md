@@ -9,14 +9,14 @@
 
 | **Steve's Squad**                   | **Misha's Squad**                  | **Shay's Squad**                    |
 | ----------------------------------- | ---------------------------------- | ----------------------------------- |
-| Dani                                | Amber                              | Nick                                |
+| Mac                                 | Amber                              | Nick                                |
 | Andrew                              | David                              | James                               |
 | Kashiff                             | Eddie                              | Annie                               |
 | Chris H.                            | Sutton                             | Mika                                |
 | Kevin                               | Dean                               | Kyle                                |
 | Brian                               | Elijah                             | Sean                                |
 | Joe                                 | Geoff L.                           | Chase                               |
-| Edwin                               | Alison                             | Mac                                 |
+| Edwin                               | Alison                             | Dani                                |
 | Chris C.                            | Daniel                             | Geoffrey M.                         |
 | Nathan                              | Jairo                              | Connor                              |
 | Cory                                |                                    |                                     |
