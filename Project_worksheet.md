@@ -44,8 +44,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |Sept 18-21| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
 |Sept 21| Project Approval | Incomplete
 |Sept 22| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Sept 23| Pseudocode / actual code | Incomplete
-|Sept 24| MVP | Incomplete
+|Sept 23| MVP | Incomplete
+|Sept 24| Post MVP/Styling | Incomplete
 |Sept 25| Presentations | Incomplete
 
 ## Priority Matrix
