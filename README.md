@@ -4,6 +4,23 @@
 ### STEP 1: Read the Directions
 1) Read **ALL** of the directions before you start. We will know...
 
+### Squads
+
+
+| **Steve's Squad**                   | **Misha's Squad**                  | **Shay's Squad**                    |
+| ----------------------------------- | ---------------------------------- | ----------------------------------- |
+| Dani                                | Amber                              | Nick                                |
+| Andrew                              | David                              | James                               |
+| Kashiff                             | Eddie                              | Annie                               |
+| Chris H.                            | Sutton                             | Mika                                |
+| Kevin                               | Dean                               | Kyle                                |
+| Brian                               | Elijah                             | Sean                                |
+| Joe                                 | Geoff L.                           | Chase                               |
+| Edwin                               | Alison                             | Mac                                 |
+| Chris C.                            | Daniel                             | Geoffrey M.                         |
+| Nathan                              | Jairo                              | Connor                              |
+| Cory                                |                                    |                                     |
+
 ### STEP 2: Pitch Your Project
 Before you start any actual coding, you must meet with your Squad Leader for ~10 minutes to get your app idea approved. Prepare the following materials _before_ your meeting and put them in your README.md:
 - **App Title**: The name of your app.
@@ -20,13 +37,13 @@ Before you start any actual coding, you must meet with your Squad Leader for ~10
 Are you interested in styling your README.md to make it look nice? Don't know how to include photos or create links? Check out this [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)!
 
 ### STEP 3: Make a New Repo
-1. [Make a new personal GitHub repo for your project](https://help.github.com/articles/create-a-repo/). **DO NOT FORK THIS REPO.** 
+1. [Make a new enterprise GitHub repo for your project](https://help.github.com/articles/create-a-repo/). **DO NOT FORK THIS REPO.** 
 2. This new repo should be under your GA Enterprise Github, NOT your personal account.
 2. Make sure your new repo is set to "Public" and initialize it with a README.md file. **This will be your project worksheet.**
 3. Send a link for your repository to your Squad Leader.
 4. After your have been approved, clone this new repository down to your machine.
 5. CD into the project directory and touch ```index.html```, ```style.css``` and ```script.js``` files.
-6. Test a commit and push it to make sure everything is connected with ```git commit -m "Go Phoenix!"```.
+6. Test a commit and push it to make sure everything is connected with ```git commit -m "Go Bees!"```.
 
 Note: Your repository should **not** be called `project-1`! Think of a name for your application, and then name your repository after your application. 
 
@@ -82,7 +99,7 @@ Your presentation should **NOT**:
 
 You will be sharing your project and your code.  Be prepared to answer questions from the instructors and other students.
 
-Did you read all of the directions before starting? If so write `git commit -m "Phoenix is the best"` instead of `git commit -m "first commit"` for your first commit.
+Did you read all of the directions before starting? If so write `git commit -m "bee's bee buzz'n"` instead of `git commit -m "first commit"` for your first commit.
 
 ### Step 7: Help and Support
 
