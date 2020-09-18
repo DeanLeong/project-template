@@ -11,7 +11,7 @@
 | ----------------------------------- | ---------------------------------- | ----------------------------------- |
 | Mac                                 | Amber                              | Nick                                |
 | Andrew                              | David                              | James                               |
-| Kashiff                             | Eddie                              | Annie                               |
+| Kashiff                             | Edward                             | Annie                               |
 | Chris H.                            | Sutton                             | Mika                                |
 | Kevin                               | Dean                               | Kyle                                |
 | Brian                               | Elijah                             | Sean                                |
