@@ -82,7 +82,7 @@ Your presentation should **NOT**:
 
 You will be sharing your project and your code.  Be prepared to answer questions from the instructors and other students.
 
-Did you read all of the directions before starting? If so write `git commit -m "bee's bee buzz'n"` instead of `git commit -m "first commit"` for your first commit.
+Did you read all of the directions before starting? If so write `git commit -m "Phoenix is the best"` instead of `git commit -m "first commit"` for your first commit.
 
 ### Step 7: Help and Support
 
