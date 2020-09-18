@@ -43,7 +43,7 @@ Are you interested in styling your README.md to make it look nice? Don't know ho
 3. Send a link for your repository to your Squad Leader.
 4. After your have been approved, clone this new repository down to your machine.
 5. CD into the project directory and touch ```index.html```, ```style.css``` and ```script.js``` files.
-6. Test a commit and push it to make sure everything is connected with ```git commit -m "Go Bees!"```.
+6. Test a commit and push it to make sure everything is connected with ```git commit -m "Go Phoenix!"```.
 
 Note: Your repository should **not** be called `project-1`! Think of a name for your application, and then name your repository after your application. 
 
